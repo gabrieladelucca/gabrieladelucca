@@ -24,7 +24,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🌍 Baseada em Taubaté, SP — Brasil
+- 🌍 Taubaté, SP — Brasil
 - 💼 Desenvolvedora Frontend & Shopify com mais de 3 anos de experiência
 - 🛍️ Especializada em WordPress, Shopify (Liquid) e landing pages de alta conversão
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Anhanguera
